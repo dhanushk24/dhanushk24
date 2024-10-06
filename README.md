@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Dhanush K 
+  # Hi 👋, I'm Dhanush K 
+  An aspiring Data Scientist
 
 
 ## 🌐 Socials:
