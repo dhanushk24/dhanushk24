@@ -1,4 +1,4 @@
-  # Hi 👋, I'm Dhanush K 
+  # Hello this is Dhanush
   An aspiring Data Scientist
 
 
